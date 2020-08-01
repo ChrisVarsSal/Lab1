@@ -26,4 +26,7 @@ int main(int argc, const char *argv[]) {
     Derived2 derived2;
     derived2.do_semothing();
 
+    std::cout << "Welcome to the UNA!" << std::endl;
+
+
 }  // end function main
